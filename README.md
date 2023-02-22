@@ -1,16 +1,16 @@
 # Hi this is Mainul Hasan 👋
 
 
-software automation engineer with a great deal of enthusiasm
+Software Automation Engineer with a great deal of enthusiasm
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SQA
 - 🌱 I’m currently learning Test Automation
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Automation,SQA 
 - 📫 How to reach me: mhnaeem26@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: happy face 
 
