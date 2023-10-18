@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Mainul Hasan
 #### Software Automation Engineer with a great deal of enthusiasm
-![Software Automation Engineer with a great deal of enthusiasm](https://media.licdn.com/dms/image/C5603AQG33q9H4DpBmQ/profile-displayphoto-shrink_400_400/0/1595822536727?e=1683158400&v=beta&t=Dqdst8IYnbvCMLngwsMNI9VMHQfMw7bDVKuobZrUNQA)
+![Software Automation Engineer with a great deal of confidence](https://media.licdn.com/dms/image/C5603AQG33q9H4DpBmQ/profile-displayphoto-shrink_400_400/0/1595822536727?e=1683158400&v=beta&t=Dqdst8IYnbvCMLngwsMNI9VMHQfMw7bDVKuobZrUNQA)
 
-Hi, This is Mainul Hasan. I graduated from the Department of Software Engineering at Daffodil International University under the science information and technology faculty. I'm fresher and highly interested in working as a Software Automation Engineer
+Hi, This is Mainul Hasan. I graduated from the Department of Software Engineering at Daffodil International University under the Science Information and Technology faculty. I'm  highly interested in working as a Software Automation Engineer
 
 Skills: Python/VUE JS / PHP / JS / HTML / CSS/Java/
 
 - 🔭 I’m currently working on Test Automation 
 - 🌱 I’m currently learning Jenkins CI/CD 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Software Automation Engineer 
 - 📫 How to reach me: mhnaeem26@gmail.com 
 - ⚡ Fun fact: happy face 
